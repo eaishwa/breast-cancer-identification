@@ -1,2 +1,9 @@
 # breast-cancer-identification
-The aim of this project is to determine if cancer is present or not by examining the images. The dataset consists of breast histopathology images obtained from https://www.kaggle.com/paultimothymooney/breast-histopathology-images. Test accuracy of 82% is achieved.
+Breast cancer is the most common form of cancer in women, and invasive ductal carcinoma (IDC) is the most common form of breast cancer. Accurately identifying and categorizing breast cancer subtypes is an important clinical task, and automated methods can be used to save time and reduce error.
+
+In this project, I have explored and leveraged convolutional neural networks to accurately classify if the image contains cancerous cells or not.
+
+The dataset is taken from kaggle
+
+https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+
